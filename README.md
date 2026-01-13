@@ -1,4 +1,4 @@
-#React Crypto Portfolio App
+# React Crypto Portfolio App
 
 Diese Anwendung ist ein Dashboard, das simulierte Kryptowährungsdaten verwendet (basierend auf CoinGecko-Datenstrukturen), um ein Portfolio zu visualisieren. Sie demonstriert die Arbeit mit modernen React-Konzepten, UI-Bibliotheken und State Management.
 
