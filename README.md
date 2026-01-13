@@ -57,14 +57,6 @@ Da das Backend im Projekt simuliert wird (Mock-Daten), verwenden Sie bitte folge
 | Benutzername | Passwort |
 | :--- | :--- |
 | **user** | `123` |
-| **admin** | `123` |
-| **ulbi tv** | `123` |
-
-## 📂 Projektstruktur
-
-* `src/components`: UI-Komponenten (LoginForm, EventCalendar, Navbar etc.).
-* `src/store`: Redux-Konfiguration (Store, Reducer, Action Creators).
-* `src/hooks`: Benutzerdefinierte Hooks (z.B. typisierter `useTypedSelector`).
-* `src/router`: Routing-Konfiguration (öffentliche und private Routen).
-* `src/utils`: Hilfsfunktionen (Datumsformatierung, Validierung).
-* `src/models`: TypeScript-Interfaces (IUser, IEvent).
+| **Аксенов Лаврентий Тимурович** | `OcVF4lIU184PLeu` |
+| **Иларион Гаврилович Фадеев** | `2uFkTnblaGWnd4E` |
+| **Гришин Эмиль Иосипович** | `yP5oAJI0xV93xmB` |
